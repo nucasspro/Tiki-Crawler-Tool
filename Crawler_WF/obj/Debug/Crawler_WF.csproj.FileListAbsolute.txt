@@ -1,0 +1,17 @@
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\bin\Debug\Crawler_WF.exe.config
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\bin\Debug\Crawler_WF.exe
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\bin\Debug\Crawler_WF.pdb
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\bin\Debug\EPPlus.dll
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\bin\Debug\WebDriver.dll
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\bin\Debug\EPPlus.xml
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\bin\Debug\WebDriver.xml
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\obj\Debug\Crawler_WF.MainForm.resources
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\obj\Debug\Crawler_WF.Properties.Resources.resources
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\obj\Debug\Crawler_WF.UserControl.TiKi_UC.resources
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\obj\Debug\Crawler_WF.csproj.GenerateResource.cache
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\obj\Debug\Crawler_WF.csproj.CoreCompileInputs.cache
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\obj\Debug\Crawler_WF.csproj.CopyComplete
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\obj\Debug\Crawler_WF.exe
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\obj\Debug\Crawler_WF.pdb
+D:\C#\Crawler_WF\Crawler_WF\Crawler_WF\obj\Debug\Crawler_WF.csprojAssemblyReference.cache
